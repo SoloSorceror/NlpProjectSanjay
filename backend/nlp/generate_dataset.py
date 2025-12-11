@@ -29,7 +29,7 @@ SYMPTOM_MAP = {
     ],
     "Sore Throat": [
         "throat hurts", "pain when swallowing", "sore throat", "scratchy throat",
-        "throat is raw", "burning throat"
+        "throat is raw", "burning throat "
     ],
     "Shortness of Breath": [
         "can't breathe", "short of breath", "hard to breathe", "gasping for air",
