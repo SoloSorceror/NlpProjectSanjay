@@ -19,3 +19,8 @@ I have shivers and feel frozen  | 0.4085240662097931
 hii | 0.5417542457580566
 pain in the upper part is killing me | 0.5896168947219849
 hii | 0.5417542457580566
+Side effects of painkillers | 0.3357069492340088
+Side effects of painkillers | 0.3357069492340088
+I can't eat  | 0.5855805277824402
+not able to digest  | 0.5449566841125488
+I cant go to washroo, | 0.4718698561191559
